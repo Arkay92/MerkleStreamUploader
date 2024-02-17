@@ -21,9 +21,13 @@ Before you begin, ensure you have met the following requirements:
 ### Installation
 
 1. Clone the repository to your local machine:
+```
 git clone [<repository-url>](https://github.com/Arkay92/MerkleStreamUploader)
-2. Install the required dependencies:
+```
+3. Install the required dependencies:
+```
 pip install -r requirements.txt
+```
 
 ### Running the Application
 To run the application, execute the following command in the terminal:
